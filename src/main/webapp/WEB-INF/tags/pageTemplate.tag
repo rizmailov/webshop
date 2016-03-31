@@ -37,7 +37,7 @@
             <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="catalogue">Каталог<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><li><a href="#">Все категории</a></li></li>
+                    <li><li><a href="catalogue">Все категории</a></li></li>
                     <li class="divider"/>
                     <li><li><a href="#">Насосы</a></li></li>
                 </ul>
